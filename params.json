@@ -1,0 +1,6 @@
+{
+  "name": "Mnemonic-streak",
+  "tagline": "Major System Trainer to become a Memory Ninja",
+  "body": "# mnemonic-streak\r\nMajor System Trainer to become a Memory Ninja\r\nby Sergio Gomez\r\n\r\nVersion 1.0\r\n\r\n- Organic UX - It’s alive!\r\n\r\nVersion 0.3\r\n\r\n- Remember last three answers (and don’t repeat them)\r\n\r\nVersion 0.2\r\n\r\n- Keep streak score\r\n\r\nVersion 0.1\r\n\r\n- Show random number\r\n- Validate Input\r\n\r\nBacklog\r\n\r\n- Practice Numbers\r\n    - Set multiple digits\r\n- User Interface\r\n- Information Menu\r\n- Practice Letters\r\n    - Show random letters\r\n    - Input and validate answer\r\n- High Score\r\n- User Login\r\n- Practice Letters and Numbers\r\n- Practice Words\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
