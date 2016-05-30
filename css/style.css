@@ -1,0 +1,43 @@
+body {
+    padding-top: 70px;
+    background-color: #67b2c7;
+    color: white;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+nav, .navbar, .navbar-default {
+    background-color: #67b2c7;
+    color: white !important;
+    border: none;
+    
+}
+p, a {
+    color: white !important;
+}
+
+.btn-primary {
+    border: 1px solid white !important;
+    background: none !important;
+}
+.btn-primary:hover {
+    border: 1px solid white !important;
+    background-color:  rgba(255, 255, 255, 0.1) !important;
+}
+
+float-right{
+    float: right;
+}
+input {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.challengeLabel {
+    font-size: 75px
+}
+.modal-content, .modal-header {
+    background-color: #67b2c7;
+    border: none;
+    border-radius: 3px;
+}
+
+
